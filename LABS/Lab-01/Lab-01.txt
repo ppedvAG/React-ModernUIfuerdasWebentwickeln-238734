@@ -1,0 +1,50 @@
+1.Ist Visual Studio Code installiert?
+
+Überprüfe, ob Visual Studio Code installiert ist, indem du entweder nach dem Programm suchst oder das Befehlszeilenkommando code --version ausführst.
+
+
+2.Terminal dort oder eigenes Terminal nutzen.
+
+Öffne entweder das integrierte Terminal in Visual Studio Code oder ein eigenes Terminal, je nach Vorliebe.
+
+
+3. Ist Node installiert?
+
+Überprüfe, ob Node installiert ist, indem du entweder npm version oder node -v im Terminal ausführst.
+
+
+4. Navigieren mit cd in das Verzeichnis, indem der Ordner erstellt werden soll.
+
+Verwende cd im Terminal, um in das gewünschte Verzeichnis zu navigieren.
+Überprüfe den Inhalt des aktuellen Verzeichnisses mit ls.
+
+
+5. Neuen Ordner erstellen.
+
+Erstelle einen neuen Ordner mit mkdir <Ordner-Name>.
+
+
+6. Darin React-Projekt erstellen.
+
+Führe npx create-react-app <app-name> im Terminal aus, um ein neues React-Projekt zu erstellen.
+
+
+7. App mit npm start starten.
+
+Navigiere in den erstellten Ordner und führe npm start im Terminal aus, um die React-App zu starten.
+
+
+8. Im Browser unter localhost:3000 aufrufbar.
+
+Öffne deinen Webbrowser und gehe zu localhost:3000, um die gestartete React-App anzuzeigen.
+
+
+9. Durch den Quellcode führen.
+
+Untersuche die Dateien und Ordner im Projektverzeichnis, insbesondere im public-Ordner, src-Ordner und package.json.
+
+
+10. Auf App.js etwas ändern und anzeigen lassen.
+
+Öffne die App.js-Datei im src-Ordner und ändere den Inhalt, z. B. durch Hinzufügen von HTML-Elementen wie <h1>, <p>, oder <div>.
+Speichere die Änderungen und beobachte, wie sich die React-App automatisch aktualisiert, um deine Änderungen widerzuspiegeln.
